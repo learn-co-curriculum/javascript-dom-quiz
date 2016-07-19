@@ -1,22 +1,54 @@
 # DOM Quiz
 
-## Objectives
-
-1. Explain how DOM nodes are written
-2. Describe how to structure the DOM
-3. Explain the difference between inline and block elements
-
-Note: Quizzes need to follow this spec: https://github.com/flatiron-labs/learn.co-CommonMark
-
-It's kind of persnickety.
-
 ???
 
 # DOM Quiz
+
+?: The display value of most DOM elements is either inline or block.
+
+(X) True
+( ) False
+
+?: Which of the following is an inline element:
+
+( ) `<p>`
+(X) `<strong>`
+( ) `<section>`
+
+?: All visible content in an HTML document is written inside of the `<body>` tag.
+
+(X) True
+( ) False
+
+?: Block elements can be nested inside of an inline element
+
+( ) True
+(X) False
+
+?: Inline elements can be nested inside of a block element
+
+(X) True
+() False
+
+?: Inline elements can be nested inside of another inline element
+
+(X) True
+() False
+
+?: Block elements can be nested in a block element
+
+(X) True
+() False
 
 ?: `<span>` elements have `display: block` by default
 
 ( ) True
 (X) False
 
-???
+?: Which of the following tags contains the _main content_ of a table?
+
+( ) `body`
+( ) `tablebody`
+( ) `thead`
+(X) `tbody`
+( ) `tfoot`
