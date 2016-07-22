@@ -28,17 +28,17 @@
 ?: Inline elements can be nested inside of a block element
 
 (X) True
-() False
+( ) False
 
 ?: Inline elements can be nested inside of another inline element
 
 (X) True
-() False
+( ) False
 
 ?: Block elements can be nested in a block element
 
 (X) True
-() False
+( ) False
 
 ?: `<span>` elements have `display: block` by default
 
